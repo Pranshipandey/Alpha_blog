@@ -1,2 +1,2 @@
-module PagesHelper
+class PagesHelper
 end
